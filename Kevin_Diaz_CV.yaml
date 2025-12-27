@@ -1,0 +1,134 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.5/schema.json
+cv:
+  name: Kevin Hermogenes Diaz Mota
+  location: Bilbao, España
+  email: kevindiazmota@gmail.com
+  phone: +34 666 937 384
+  website:
+  social_networks:
+  sections:
+    Educación:
+      - institution: Centro San Luis
+        area: Desarrollo de Aplicaciones Web
+        degree: Grado Superior (DAW)
+        start_date: 2022-09
+        end_date: 2024-06
+        location: Bilbao, España
+        highlights:
+          - Formación completa en desarrollo web Front-end y Back-end
+          - Proyectos con frameworks modernos como Laravel y Next.js
+          - Gestión de bases de datos relacionales y no relacionales
+      - institution: Centro San Luis
+        area: Sistemas Microinformáticos y Redes
+        degree: Grado Medio (SMR)
+        start_date: 2020-09
+        end_date: 2022-06
+        location: Bilbao, España
+        highlights:
+          - Fundamentos de redes LAN/WLAN, DHCP y DNS
+          - Mantenimiento y configuración de equipos informáticos
+          - Virtualización con VirtualBox y VMware
+      - institution: Ikasbide Ikastetxea
+        area: Educación Secundaria
+        degree: ESO
+        start_date: 2012-09
+        end_date: 2020-06
+        location: Bilbao, España
+        highlights:
+    
+    Experiencia:
+      - company: Asocolvas
+        position: Prácticas Académicas - Desarrollo Web
+        start_date: 2025-01
+        end_date: present
+        location: Bilbao, España
+        highlights:
+          - Desarrollo web Front-end con HTML5, CSS3, JavaScript y frameworks modernos
+          - Implementación de Back-end con PHP, Laravel y gestión de APIs
+          - Administración de bases de datos MySQL, PostgreSQL y MongoDB
+          - Configuración y gestión de máquinas virtuales para entornos de desarrollo
+      - company: Lebasque Bilbao
+        position: Auxiliar de Seguridad Eventos
+        start_date: 2022-06
+        end_date: present
+        location: Bilbao, España
+        highlights:
+          - Soporte logístico en eventos de gran aforo
+          - Supervisión y coordinación de equipos de trabajo
+          - Atención al cliente y resolución de incidencias
+          - Gestión eficiente de flujos de personas en eventos multitudinarios
+      - company: Ikasbide
+        position: Prácticas Académicas - Soporte Técnico
+        start_date: 2022-03
+        end_date: 2022-06
+        location: Bilbao, España
+        highlights:
+          - Mantenimiento preventivo y correctivo de equipos informáticos
+          - Soporte técnico a alumnos y personal docente
+          - Actualización y mantenimiento de la página web institucional
+          - Supervisión de la infraestructura de red del centro
+    
+    Habilidades Técnicas:
+      - label: Lenguajes de Programación
+        details: Java, PHP, JavaScript, HTML5, CSS3
+      - label: Frameworks
+        details: Laravel, Next.js, Bootstrap, Tailwind CSS, jQuery
+      - label: Bases de Datos
+        details: MySQL, MariaDB, PostgreSQL, SQLite, MongoDB
+      - label: Herramientas de Desarrollo
+        details: Git, GitHub, GitLab, Docker, XAMPP, UniServer
+      - label: Virtualización y Sistemas
+        details: VirtualBox, VMware, Hosting Cloud
+      - label: Redes
+        details: Configuración LAN/WLAN, DHCP, DNS
+      - label: Herramientas Ofimáticas
+        details: Microsoft Office, Google Workspace, Canva, Figma
+    
+    Idiomas:
+      - label: Español
+        details: Nativo
+      - label: Euskera
+        details: Competencia profesional
+      - label: Inglés
+        details: Nivel intermedio
+    
+    Habilidades Fuertes:
+      - bullet: Comunicación efectiva y trabajo en equipo
+      - bullet: Gestión y coordinación de equipos grandes
+      - bullet: Resolución de problemas técnicos y creativos
+      - bullet: Liderazgo y toma de decisiones
+      - bullet: Adaptabilidad a entornos dinámicos
+
+design:
+  theme: classic
+  page:
+    size: a4
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+
+locale:
+  language: spanish
+  last_updated: Última actualización
+  month: mes
+  months: meses
+  year: año
+  years: años
+  present: presente
+  month_abbreviations:
+    - Ene
+    - Feb
+    - Mar
+    - Abr
+    - May
+    - Jun
+    - Jul
+    - Ago
+    - Sep
+    - Oct
+    - Nov
+    - Dic
+
+settings:
+  current_date: '2025-12-27'
